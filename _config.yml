@@ -8,9 +8,9 @@ permalink:        pretty
 
 # Setup
 title:            JBaptiste Reynaud
-tagline:          'A Jekyll theme'
-description:      'A brazeen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+tagline:          'Php dev'
+description:      'My personnal blog talking things I found on the web.'
+url:              jibe84.github.io
 baseurl:          /
 
 author:
