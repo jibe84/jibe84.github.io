@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            JBaptiste Reynaud
 tagline:          'Php dev'
-description:      'My personnal blog talking things I found on the web.'
+description:      'My personnal blog talking things I found on the web. Made by <a href="https://twitter.com/jibe_84" target="_blank">@jibe_84</a>'
 url:              jibe84.github.io
 baseurl:          /
 
