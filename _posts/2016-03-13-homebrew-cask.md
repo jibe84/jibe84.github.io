@@ -11,5 +11,5 @@ I found a script on github to automize some settings, it's very usefull as you c
 
 But the thing the most interesting from this script, is the homebrew cask tool."Homebrew installs the stuff you need that Apple didn’t" as they said on their website. with Homebrew cask you will be able to download any application throught your terminal. For example, it you need atom, you just need to run `brew cask atom`, and that's it! Most of programs are present and on [their website](https://caskroom.github.io/) you can search for the alias of the application your looking for.
 
-- more about Homebrew http://brew.sh/
-- more about cask https://caskroom.github.io/
+- more about Homebrew [brew.sh](http://brew.sh/)
+- more about cask [caskroom.github.io](https://caskroom.github.io/)
