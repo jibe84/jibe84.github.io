@@ -7,4 +7,4 @@ categories: json
 
 Today, I learn how to : Generate JSON schema from a given schema.
 
-By using this webtool http://jsonschema.net/, just need to copy paste the json and voilà!
+By using this webtool (jsonschema.net)[http://jsonschema.net], just need to copy paste the json and voilà!
