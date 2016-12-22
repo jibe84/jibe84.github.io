@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Generate a json schema"
-date:   2016-12-16 20:00:00 +0200
+date:   2016-12-20 20:00:00 +0200
 categories: json
 ---
 
